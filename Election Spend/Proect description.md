@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elections Ad Spending Analysis</title>
 </head>
 <body>
     <h1>Elections Ad Spending Analysis: Dataset Overview</h1>
